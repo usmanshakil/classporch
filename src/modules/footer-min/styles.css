@@ -1,0 +1,57 @@
+.footer-background{
+    background-color: #0A1331;
+}
+
+.footer-bottom-background{
+    background-color: #20273D;
+}
+
+.logo{
+    height: 40px;
+}
+
+/* .icon{
+    color: #FFF;
+    border: 1px solid #FFF;
+    margin: 0 15px 0 0 !important;
+} */
+
+.subscribe-label{
+    color: #FFF;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.subscribe-subtitle{
+    color: #CCC;
+    font-size: 12px;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+
+.subscribe-button{
+    margin-top: 10px !important;
+}
+
+.copyright-text{
+    color: #CCC;
+    font-family: 'Open Sans';
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.footer-button{
+    color: #FFF!important;
+    font-family: 'Open Sans';
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.footer-button-back-to-top{
+    color: #FFF!important;
+    font-family: 'Open Sans';
+    font-size: 12px;
+    font-weight: 400;
+}

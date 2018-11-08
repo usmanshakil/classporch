@@ -1,0 +1,16 @@
+.chat-row {
+    color: #CCC;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.chat-name {
+    font-weight: 500;
+    font-size: 20px;
+    color: #333;
+}
+
+.chat-subtitle {
+    font-size: 13px;
+    color: #AAA;
+}

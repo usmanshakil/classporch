@@ -1,0 +1,26 @@
+
+.grid-style{
+	margin-bottom: 40px !important;
+}
+
+.suggested-tutors{
+	font-size:1.7em;
+	font-weight: 300;
+	padding-bottom:1em !important;
+}
+
+.container{
+	width:100%;
+}
+
+.page-number-styles {
+	display: flex;
+	justify-content: center;
+
+}
+
+.page-number-dot{
+	width:2em !important;
+	height:2em !important;
+	cursor: pointer !important;
+}

@@ -1,0 +1,11 @@
+.skill{
+    margin: 5px 5px!important;
+    font-weight: 600!important;
+    padding: 10px 10px!important;
+}
+
+.skill-remove-icon{
+    color: #FFF!important;
+    border: none!important;
+    margin-left: 8px!important;
+}

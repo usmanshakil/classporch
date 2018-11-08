@@ -1,0 +1,41 @@
+.title {
+    margin-top: 10px;
+}
+
+.section-one {
+    height: 62vh;
+    margin-top: 30vh;
+}
+
+.home-title {
+    text-shadow: -3px -2px 8px rgba(0, 2, 0, 0.68);
+    font-size: 64px;
+    font-weight: 600;
+    color: #FFF
+}
+
+.scroll-to {
+    cursor: pointer;
+    margin-top: 15px;
+    color: #FBBD08;
+}
+
+.find-button {
+    text-shadow: none !important;
+    padding: 13px 22px !important;
+    border: 1px solid #FBBD08 !important;
+}
+
+.home-title-bold {
+    font-size: 64px;
+    font-weight: 300;
+    color: #FBBD08;
+    font-family: 'Open Sans';
+}
+
+.home-subtitle {
+    font-size: 32px;
+    font-weight: 400;
+    color: #FFF;
+    font-family: 'Open Sans', 'sans-serif';
+}

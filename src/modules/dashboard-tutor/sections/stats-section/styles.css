@@ -1,0 +1,43 @@
+.tutor-stats-section{
+	margin-top: 40px!important;
+	margin-bottom: 40px!important;
+}
+
+.tutor-greeting{
+	font-size: 40px;
+	font-weight: 300;
+	margin-bottom: 0.3em!important;
+	line-height: 1!important;
+}
+
+.tutor-greeting2{
+	font-size: 13px;
+	color: #AAA;
+}
+
+.dashboard-message-text{
+	margin-left: 10px;
+	font-size: 18px;
+	font-weight: 300;
+	color: #333;
+}
+
+.dashboard-stats-container{
+	border: 1px #F6A623 solid;
+	border-radius: 10px;
+	display: table;
+	width: 100%;
+	height: 20em;
+}
+
+.dashboard-stats-container :hover{
+	background: #F6A623;
+	color: #FFF;
+}
+
+.dashboard-stats-text{
+	display: table-cell;
+	vertical-align: middle;
+	color: #F6A623;
+	font-size: 24px;
+}

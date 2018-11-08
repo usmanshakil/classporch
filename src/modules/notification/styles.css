@@ -1,0 +1,27 @@
+#tblNotification {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#tblNotification td, #tblNotification th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#tblNotification tr:nth-child(even){background-color: #f2f2f2;}
+
+#tblNotification tr:hover {background-color: #ddd;}
+
+#tblNotification th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FBBD08;
+    color: white;
+}
+
+.image{
+    height: 20px;
+    width: 20px
+}

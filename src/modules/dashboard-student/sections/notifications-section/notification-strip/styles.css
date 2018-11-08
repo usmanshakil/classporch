@@ -1,0 +1,11 @@
+.notification-title{
+	font-size: 16px;
+	color: #333;
+	line-height: 1;
+}
+
+.notification-subtitle{
+	font-size: 11px;
+	color: #888;
+	line-height: 0.7;
+}

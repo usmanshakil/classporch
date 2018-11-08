@@ -1,0 +1,30 @@
+
+
+.profile-picture-form ::placeholder {
+	color: #fff !important;
+}
+
+.profile-picture-form-label {
+	background-color:#FBBD08 !important;
+    text-transform: uppercase;
+    font-weight: 400;
+	color:#fff;
+	text-align: center;
+	cursor: pointer;
+}
+
+.image-input{
+	height: 0.1px;
+	width:0.1px;
+	border-radius: 5px;
+	visibility: hidden;
+	box-shadow: none;
+	border:none;
+	padding:0;
+    margin: 0;
+}
+
+.profile-picture-form{
+	height: 40px !important;
+	border:none;
+}

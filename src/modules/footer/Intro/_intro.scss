@@ -1,0 +1,28 @@
+.footer-intro-list {
+  background: #595f67 !important;
+  color: #f4f4f4 !important;
+  .intro-items {
+    padding-left: 30px;
+  }
+  .item {
+    line-height: 30px !important;
+    a {
+      color: #f4f4f4 !important;
+      &:hover {
+        color: #333333 !important;
+      }
+    }
+  }
+  .contact-us-button {
+    padding: 10px;
+    button {
+      padding: 15px 45px;
+      background: orange;
+      transition: all ease .3s;
+      &:hover {
+        background: orange;
+        color: white;
+      }
+    }
+  }
+}

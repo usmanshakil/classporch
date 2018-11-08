@@ -1,0 +1,18 @@
+.sign-up-tutor-top-section-body {
+    margin-top: 100px!important;
+    margin-bottom: 40px!important;
+}
+
+.sign-up-tutor-top-section-title {
+    font-family: 'Open Sans';
+    font-size: 15px;
+    color: #333;
+    letter-spacing: 0;
+}
+
+.sign-up-tutor-top-section-subtitle{
+    font-family: 'Open Sans';
+    font-size: 11px;
+    color: #828282;
+    letter-spacing: 0;
+}

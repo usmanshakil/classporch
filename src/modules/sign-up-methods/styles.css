@@ -1,0 +1,21 @@
+.sign-up-methods-body{
+    margin: 200px 0!important;
+}
+
+.sign-up-methods-header{
+    font-family: 'Open Sans';
+    font-size: 30px;
+    font-weight: 300;
+    margin-bottom: 150px!important;
+    text-align: center;
+}
+.login-button-facebook-tutor {
+    padding: 20px 80px !important;
+}
+
+.center-btn{
+   margin-left: 30%;
+}
+.text-center{
+    margin-bottom: -150px;
+}

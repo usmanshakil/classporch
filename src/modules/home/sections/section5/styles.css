@@ -1,0 +1,27 @@
+.section5-title{
+    font-size: 30px;
+    font-family: 'Open Sans';
+    font-weight: 200;
+}
+
+.section5-subtitle{
+    font-size: 12px;
+    font-family: 'Open Sans';
+    color: #AAA;
+}
+
+.section5-title-semibold{
+    font-size: 30px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+}
+
+.section-five{
+    margin: 100px 0!important;
+}
+
+.section5-seperator{
+    height: 2px;
+    width: 200px;
+    background-color: #E1A435;
+}

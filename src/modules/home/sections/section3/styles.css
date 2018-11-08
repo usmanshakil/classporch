@@ -1,0 +1,50 @@
+.section3-title{
+    font-size: 30px;
+    font-family: 'Open Sans';
+    font-weight: 200;
+}
+
+.section3-subtitle{
+    font-size: 12px;
+    font-family: 'Open Sans';
+    color: #AAA;
+}
+
+.section3-title-semibold{
+    font-size: 30px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+}
+
+.section-three{
+    margin: 100px 0!important;
+}
+
+.section3-seperator{
+    height: 2px;
+    width: 200px;
+    background-color: #E1A435;
+}
+
+.section-three-feature-header{
+    font-size: 18px;
+    color: #E1A435;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    margin-top: 10px!important;
+}
+
+.section-three-feature-details{
+    color: #888;
+    font-family: 'Open Sans';
+    font-weight: 200;
+    margin-top: 10px!important;
+}
+
+.section-three-features{
+    margin-top: 40px!important;
+}
+
+.pricing-plans-button{
+    margin-top: 24px!important;
+}

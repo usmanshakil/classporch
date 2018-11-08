@@ -1,0 +1,43 @@
+
+.message-box{
+	height: 30px;
+	cursor: default;
+	background-color: #fff;
+	margin:0;
+	box-shadow: none;
+	border-radius: 0;
+	border-width: 0;
+	text-align: left;
+	padding: 0 150px 0 0;
+	color:rgb(202, 130, 14);
+}
+
+.money-text{
+	font-size:1.1em;
+}
+
+
+.profile-picture-form ::placeholder {
+	color: #fff !important;
+}	 
+
+.image-input input{
+	height: 40px;
+	width:220px;
+	border-radius: 5px;
+	box-shadow: none;
+	border:none;
+	cursor: pointer;
+	background-color:#FBBD08 !important;
+	padding:0;
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 400;
+	color:#fff;
+	text-align: center;
+}
+
+.profile-picture-form{
+	height: 40px !important;
+	border:none;
+}

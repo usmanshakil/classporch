@@ -1,0 +1,21 @@
+.testimonial-body{
+    margin: 50px 0!important;
+}
+
+.testimonial-comment-box{
+    padding: 20px 20px;
+    border: 1px solid #DDD;
+    border-radius: 5px;
+}
+
+.testimonial-comment{
+    color: #333;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-style: italic;
+    font-size: 12px;
+}
+
+.testimonial-profile-picture{
+    margin: 30px 0!important;
+}

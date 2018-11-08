@@ -1,0 +1,97 @@
+.menu-container
+{
+display:none;
+}
+
+.menubar{
+    height: 80px;
+    padding-right: 20px;
+}
+
+.navBar-logo{
+    height: 40px;
+}
+
+.search-input{
+    width:33em !important;
+}
+
+.search-form{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.menubar-container{
+    width:230px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:0;
+}
+
+.trigger-container{
+    flex:1 1 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.trigger-content{
+    flex:1 1 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.username-text{
+    font-size:16px;
+    margin-bottom: 5px;
+    font-weight: 100;
+}
+
+.user-credits{
+    color: #999;
+}
+
+.None-border{
+    border: none !important;
+}
+.icone-bell-size{
+    height: 23px;
+}
+
+#notificationDiv1{
+    position: absolute;
+    z-index: 101;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: transparent;
+    text-align: center;
+    line-height: 2.5;
+    overflow: hidden; 
+    -webkit-box-shadow: 0 0 5px black;
+    -moz-box-shadow:    0 0 5px black;
+    box-shadow:         0 0 5px black;
+}
+
+.NotificationDiv{
+    z-index: 101;
+    top:110%;
+    left: 70%;
+    right: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    height: 300px;
+    background: #e9f0f3;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 30px;
+}
+
+.NotificationMessage{
+    
+}
+
